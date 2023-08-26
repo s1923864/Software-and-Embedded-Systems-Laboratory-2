@@ -5,3 +5,12 @@ This course provides an introduction to both the programming of embedded devices
 In the first part, students will learn the important elements of an imperative programming language, C, that can be used to program an embedded system. They will also undertake exercises making use of those features in a modular programming style. Students will develop knowledge and skills with which to analyse and solve engineering problems by application of numerical analysis techniques.
 
 In the second part, students will study how an embedded device can handle both analogue and digital signals. This part of the course will be based around simulation software, with reinforcement via laboratory examples where possible. Students will explore how embedded systems can interact with real world analogue signals. They will also study how embedded processors can communicate in a digital format with other electronic devices.
+
+
+## Installation
+
+Clone this repository and compile the code as per the instructions.
+
+```bash
+git clone https://github.com/s1923864/Software-and-Embedded-Systems-Laboratory-2.git
+cd branch-predictors
